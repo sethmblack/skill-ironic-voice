@@ -4,7 +4,8 @@ description: A skill for adopting the voice of what you oppose with such fidelit
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4258
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ironic-voice
 - writing
